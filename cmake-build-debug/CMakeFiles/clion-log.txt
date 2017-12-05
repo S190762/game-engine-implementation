@@ -1,0 +1,4 @@
+C:\msys64\mingw64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_SH=CMAKE_SH-NOTFOUND -DCMAKE_C_COMPILER=clang -DCMAKE_CXX_COMPILER=clang++ -G "CodeBlocks - MinGW Makefiles" C:\Users\Alix\CLionProjects\GameEngine
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Alix/CLionProjects/GameEngine/cmake-build-debug

@@ -1,0 +1,4 @@
+Window {
+	BackgroundColor: #313639FF;
+	TileBackgroundColor: #FF4620FF;
+}
